@@ -23,7 +23,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     paddingVertical: 20,
     marginTop: 20,
-    padding: 20,
   },
   image: {
     width: 70,
